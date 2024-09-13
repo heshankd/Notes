@@ -1,0 +1,5 @@
+Change admin vlan in Cisco CBS220
+=================================
+vlan default-vlan 1000
+management-vlan vlan 1000
+management vlan ip-address 10.21.0.10 mask 255.255.255.0
